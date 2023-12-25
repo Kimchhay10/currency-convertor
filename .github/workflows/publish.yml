@@ -5,6 +5,8 @@ on: push
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
       - name: checkout
         uses: actions/checkout@v2
