@@ -1,5 +1,5 @@
 {
-    "name": "@currency-rate-convertor/npm",
+    "name": "currency-convertor-ekc",
     "version": "1.0.0",
     "description": "The Currency Rate Converter is a simple and efficient tool that allows users to convert between different currencies based on the latest exchange rates. Whether you're a traveler, a business owner dealing with international transactions, or simply curious about currency values, this converter provides accurate and up-to-date information.",
     "main": "dist/index.js",
