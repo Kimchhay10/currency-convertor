@@ -14,7 +14,7 @@
     "converter",
     "exchange"
   ],
-  "author": "ekc",
+  "author": "ethkimchhay",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.3.3"
